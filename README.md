@@ -60,7 +60,3 @@ Explore a world of delicious dishes and tailor your culinary experience with the
 ## Contributors
 
 **Shreyansh Pathak**
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
