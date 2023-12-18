@@ -1,5 +1,9 @@
 # Meals App
 
+# Recording
+
+
+
 ## Overview
 
 The **Meals App** is an engaging mobile application designed for exploring and discovering a diverse array of dishes across various categories. The app features an intuitive user interface, including an expandable menu in the top left corner, giving users the option to set filters for meals or navigate to the main page. On the main page, users encounter food categories presented as tiles, leading to visually appealing and animated pages with detailed information about each dish. The app further enhances the user experience by providing a star button to add or remove dishes from favorites. Users can view their favorite dishes through a bottom navigation bar, which offers options to switch between food categories and their favorite dishes.
@@ -15,6 +19,10 @@ The app incorporates an expandable menu in the top left corner, allowing users t
 - **Drawer Widget:** Implemented for the expandable menu, providing a clean and organized user interface.
 
 ### Main Page with Food Categories
+
+https://github.com/shreyansh-287/my_meal_app/assets/108536541/989fa4db-a9b4-4ef3-a0c3-5f8daec4895e
+
+
 
 The main page displays a variety of food categories, such as Italian and Indian, in tile format, enabling users to explore different cuisines effortlessly.
 
