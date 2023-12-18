@@ -50,13 +50,12 @@ Explore a world of delicious dishes and tailor your culinary experience with the
 
 ## Dependencies
 
-- Flutter: [Insert Flutter Version]
-- Dart: [Insert Dart Version]
+- Flutter: 3.10.6
+- Dart: 3.0.6
 
 ## Contributors
 
-- [Your Name]
-- [Additional Contributors]
+**Shreyansh Pathak**
 
 ## License
 
