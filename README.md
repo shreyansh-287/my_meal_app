@@ -2,7 +2,7 @@
 
 # Recording
 
-
+https://github.com/shreyansh-287/my_meal_app/assets/108536541/989fa4db-a9b4-4ef3-a0c3-5f8daec4895e
 
 ## Overview
 
@@ -19,10 +19,6 @@ The app incorporates an expandable menu in the top left corner, allowing users t
 - **Drawer Widget:** Implemented for the expandable menu, providing a clean and organized user interface.
 
 ### Main Page with Food Categories
-
-https://github.com/shreyansh-287/my_meal_app/assets/108536541/989fa4db-a9b4-4ef3-a0c3-5f8daec4895e
-
-
 
 The main page displays a variety of food categories, such as Italian and Indian, in tile format, enabling users to explore different cuisines effortlessly.
 
